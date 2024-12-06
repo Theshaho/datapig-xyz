@@ -79,10 +79,17 @@ Ctl+X => Y => Enter
 
 Once you've completed the setup, you can run the bot with the following command:
 
+create a screen 
+
 ```bash
 screen -S datapig
+```
 
+run the bot
+```bash
 node index.js
 ```
 
-Ctl + A + D
+detach with Ctl + A + D
+
+[source](https://github.com/ganjsmoke/datapig-xyz)
