@@ -15,7 +15,7 @@ Before you begin, ensure that you have met the following requirements:
   sudo apt install git screen
   ```
   
-# Install Nodejs 18
+### Install Nodejs 18
 
   ```bash
   NODE_MAJOR=18
