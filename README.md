@@ -6,6 +6,8 @@ The bot can generate random preferences, sign messages, generate analysis, and m
 
 ## Prerequisite
 
+First of all register with your burner wallet in [DataPig](https://app.datapig.xyz?ref=hj7dh9)
+
 Before you begin, ensure that you have met the following requirements:
 
 - **Node.js**: Version 16 or higher.
