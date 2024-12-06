@@ -190,7 +190,7 @@ function generateRandomPreferences(tokens) {
 function printHeader() {
     const line = "=".repeat(50);
     const title = "Auto Generate Analysis Data Pig XYZ";
-    const createdBy = "Bot created by: https://t.me/airdropwithmeh";
+    const createdBy = "Bot edited by: https://t.me/UbuntuForNodes";
 
     const totalWidth = 50;
     const titlePadding = Math.floor((totalWidth - title.length) / 2);
